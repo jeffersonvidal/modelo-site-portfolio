@@ -1,6 +1,6 @@
 # MODELO DE SITE PORTFÓLIO
 Modelo HTML de site portfólio para autônomos e freelancers.
-Esse modelo foi desenvolvido baseado no tutorial encontrado no youtube: https://www.youtube.com/watch?v=TASnnayYPL8
+Esse modelo foi desenvolvido baseado em tutoriais encontrados no youtube.
 
 Modificações foram realizadas para adaptar à minha preferência e estilo pessoal.
 
