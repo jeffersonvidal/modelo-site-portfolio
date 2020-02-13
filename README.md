@@ -1,5 +1,8 @@
 # MODELO DE SITE PORTFÓLIO
 Modelo HTML de site portfólio para autônomos e freelancers.
+Esse modelo foi desenvolvido baseado no tutorial encontrado no youtube: https://www.youtube.com/watch?v=TASnnayYPL8
+
+Modificações foram realizadas para adaptar à minha preferência e estilo pessoal.
 
 ## CONTEÚDO
 
@@ -13,13 +16,13 @@ Modelo HTML de site portfólio para autônomos e freelancers.
 ## PÁGINAS DO SITE ##
 
 ### PERFIL
-![Perfil](https://i.imgsafe.org/cb/cb0daa65df.gif)
+![Perfil](https://github.com/jeffersonvidal/modelo-site-portfolio/blob/master/thumbs/perfil.png?raw=true)
 
 ### CURRÍCULO
-![Curriculo](https://i.imgsafe.org/cb/cb0daa65df.gif)
+![Curriculo](https://github.com/jeffersonvidal/modelo-site-portfolio/blob/master/thumbs/curriculo.png?raw=true)
 
 ### PORTFÓLIO
-![Portfolio](https://i.imgsafe.org/cb/cb0daa65df.gif)
+![Portfolio](https://github.com/jeffersonvidal/modelo-site-portfolio/blob/master/thumbs/portfolio.png?raw=true)
 
 ### CONTATO
-![Contato](https://i.imgsafe.org/cb/cb0daa65df.gif)
+![Contato](https://github.com/jeffersonvidal/modelo-site-portfolio/blob/master/thumbs/contato.png?raw=true)
