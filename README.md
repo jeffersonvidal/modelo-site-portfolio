@@ -4,7 +4,12 @@ Esse modelo foi desenvolvido baseado no tutorial encontrado no youtube: https://
 
 Modificações foram realizadas para adaptar à minha preferência e estilo pessoal.
 
-## CONTEÚDO
+## TECNOLOGIAS UTILIZADAS
+- HTML 5
+- JavaScript
+- CSS 3
+
+### CONTEÚDO
 
 É um site simples, estiloso e muito bonito!
 
@@ -13,16 +18,16 @@ Modificações foram realizadas para adaptar à minha preferência e estilo pess
 - Portfólio
 - Contato
 
-## PÁGINAS DO SITE ##
+### PÁGINAS DO SITE ###
 
-### PERFIL
+#### PERFIL
 ![Perfil](https://github.com/jeffersonvidal/modelo-site-portfolio/blob/master/thumbs/perfil.png?raw=true)
 
-### CURRÍCULO
+#### CURRÍCULO
 ![Curriculo](https://github.com/jeffersonvidal/modelo-site-portfolio/blob/master/thumbs/curriculo.png?raw=true)
 
-### PORTFÓLIO
+#### PORTFÓLIO
 ![Portfolio](https://github.com/jeffersonvidal/modelo-site-portfolio/blob/master/thumbs/portfolio.png?raw=true)
 
-### CONTATO
+#### CONTATO
 ![Contato](https://github.com/jeffersonvidal/modelo-site-portfolio/blob/master/thumbs/contato.png?raw=true)
