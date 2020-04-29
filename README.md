@@ -35,3 +35,7 @@ Modificações foram realizadas para adaptar à minha preferência e estilo pess
 #### VIDEO DE DEMONSTRAÇÃO
 [![Demonstração Site Portfólio by Jefferson Vidal](http://img.youtube.com/vi/XMsvDYKXFRk/0.jpg)](http://www.youtube.com/watch?v=XMsvDYKXFRk "Demonstração Site Portfólio by Jefferson Vidal")
 
+
+---
+
+Made with ♥ by [Jefferson Vidal](https://github.com/jeffersonvidal)
